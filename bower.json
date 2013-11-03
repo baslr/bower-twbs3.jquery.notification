@@ -1,0 +1,14 @@
+{
+  "name": "twbs3.jquery.notification",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "simple notifications with twbs3 and jquery",
+  "keywords": [
+    "notification"
+  ],
+  "authors": [
+    "Manuel Baesler"
+  ],
+  "license": "AGPL3",
+  "homepage": "https://github.com/baslr/bower-twbs3.jquery.notification"
+}
