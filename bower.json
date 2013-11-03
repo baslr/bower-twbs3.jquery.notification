@@ -10,5 +10,9 @@
     "Manuel Baesler"
   ],
   "license": "AGPL3",
-  "homepage": "https://github.com/baslr/bower-twbs3.jquery.notification"
+  "homepage": "https://github.com/baslr/bower-twbs3.jquery.notification",
+  "dependencies": {
+    "bootstrap": "~3.0.1",
+    "jquery": "~2.0.3"
+  }
 }
